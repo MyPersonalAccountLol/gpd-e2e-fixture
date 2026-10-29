@@ -2,7 +2,7 @@
 export const TABLE = [
   { id: 1, name: 'row-1', weight: 1 },
   { id: 2, name: 'row-2', weight: 1 },
-  { id: 3, name: 'row-3', weight: 1 },
+  { id: 3, name: 'row-3', weight: 2 },
   { id: 4, name: 'row-4', weight: 1 },
   { id: 5, name: 'row-5', weight: 1 },
   { id: 6, name: 'row-6', weight: 1 },
@@ -1039,7 +1039,7 @@ export const TABLE = [
   { id: 1037, name: 'row-1037', weight: 1 },
   { id: 1038, name: 'row-1038', weight: 1 },
   { id: 1039, name: 'row-1039', weight: 1 },
-  { id: 1040, name: 'row-1040', weight: 1 },
+  { id: 1040, name: 'row-1040', weight: 2 },
   { id: 1041, name: 'row-1041', weight: 1 },
   { id: 1042, name: 'row-1042', weight: 1 },
   { id: 1043, name: 'row-1043', weight: 1 },
